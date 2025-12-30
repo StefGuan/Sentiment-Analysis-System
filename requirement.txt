@@ -1,0 +1,21 @@
+python==3.13.2
+
+# basic_figure_tackling
+pandas==2.2.3
+numpy==2.2.6
+
+# machine_learning
+scikit-learn==1.6.1
+xgboost==1.7.5
+
+# NLP
+jieba==0.42.1
+
+# visualisation
+matplotlib==3.10.3
+seaborn==0.13.2
+wordcloud==1.9.4
+
+# others
+tqdm==4.65.0
+jupyter==1.0.0
